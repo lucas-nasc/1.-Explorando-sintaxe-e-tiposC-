@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Desafios Dio\bin\Debug\net8.0\Desafios Dio.exe
+C:\Users\User\Desktop\Desafios Dio\bin\Debug\net8.0\Desafios Dio.deps.json
+C:\Users\User\Desktop\Desafios Dio\bin\Debug\net8.0\Desafios Dio.runtimeconfig.json
+C:\Users\User\Desktop\Desafios Dio\bin\Debug\net8.0\Desafios Dio.dll
+C:\Users\User\Desktop\Desafios Dio\bin\Debug\net8.0\Desafios Dio.pdb
+C:\Users\User\Desktop\Desafios Dio\obj\Debug\net8.0\Desafios Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Desafios Dio\obj\Debug\net8.0\Desafios Dio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Desafios Dio\obj\Debug\net8.0\Desafios Dio.AssemblyInfo.cs
+C:\Users\User\Desktop\Desafios Dio\obj\Debug\net8.0\Desafios Dio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desafios Dio\obj\Debug\net8.0\Desafios Dio.dll
+C:\Users\User\Desktop\Desafios Dio\obj\Debug\net8.0\refint\Desafios Dio.dll
+C:\Users\User\Desktop\Desafios Dio\obj\Debug\net8.0\Desafios Dio.pdb
+C:\Users\User\Desktop\Desafios Dio\obj\Debug\net8.0\Desafios Dio.genruntimeconfig.cache
+C:\Users\User\Desktop\Desafios Dio\obj\Debug\net8.0\ref\Desafios Dio.dll
